@@ -16,9 +16,10 @@ h1 {
     width: 300px;
     padding: 20px;
     border-radius: 25px;
-    justify-content: center;
-    align-items:center;
-  }
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+}
 
 .space {
     margin-left: 30px;
