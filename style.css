@@ -3,13 +3,13 @@ body {
     font-family: Arial;
     color: white;
   }
-  
-  h1 {
+
+h1 {
     color: grey;
     font-family: verdana;
   }
-  
-  .maindiv {
+
+.maindiv {
     background-color: white;
     color: black;
     width: 300px;
