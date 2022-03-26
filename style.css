@@ -19,4 +19,7 @@ h1 {
     justify-content: center;
     align-items:center;
   }
-  
+
+.space {
+     margin-left: 80px;
+}
